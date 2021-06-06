@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.ingresos {
+  font-size: 0.7em;
+  color: green;
+  font-weight: bold
+}
+
+.egresos {
+  font-size: 0.7em;
+  color: red;
+  font-weight: bold
+}
+
+.saldo {
+  font-size: 0.8em;
+  color: blue;
+  font-weight: bold
+}
+
+.tabla {
+  font-size: 0.8em;
+}
+
+.Modal1 {
+  margin:auto;
+  margin-top: 10em;
+  background-color: #e6fcf0;
+  height: 150px;
+  border: 1px solid grey; 
+  max-width: 20em;
+}
+
+
